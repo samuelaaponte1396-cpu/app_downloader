@@ -25,7 +25,7 @@ Welcome to the muOS App Downloader! This application is designed to simplify the
 
 1. Download the [repack](https://drive.google.com/file/d/1wegc7qvGOCUXZj78GfxagVu947p6LfBe/view?usp=drivesdk)
 
-2. Transfer the .muxzip file to your handhelds `SD1 (mmc)/ARCHIVE` directory
+2. Transfer the .muxapp file to your handhelds `SD1 (mmc)/ARCHIVE` directory
 
 3. Open the **Archive Manager** app.
 
