@@ -59,4 +59,15 @@
 			"https://raw.githubusercontent.com/pcorbel/storiies/main/.github/player.png"
 		]
 	}
+	[
+  {
+    "title": "Mutube",
+    "image_url": "https://i.postimg.cc/8CY4ZtFk/screenshot.png",
+    "description": "YouTube for MUOS",
+    "repo": "luuhbo/muTube",
+    "gallery": [
+      "https://i.postimg.cc/NMr4SmT6/screenshot2.png"
+    ]
+  }
+	]
 ]
