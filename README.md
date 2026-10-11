@@ -23,7 +23,7 @@ Welcome to the muOS App Downloader! This application is designed to simplify the
 
 ## Installation
 
-1. Download the [latest release](https://github.com/andersmmg/app_downloader/releases/latest)
+1. Download the [repack](https://github.com/andersmmg/app_downloader/releases/latest)
 
 2. Transfer the .muxzip file to your handhelds `SD1 (mmc)/ARCHIVE` directory
 
