@@ -29,7 +29,7 @@
 	},
 	{
 		"title": "Bluetooth",
-		"image_url": "https://i.postimg.cc/HWQqXjSQ/400180749-e9cf6c27-c8b1-4747-8ec9-61bd60b08587.png",
+		"image_url": "https://community.muos.dev/uploads/default/original/1X/d69c60f2f6a3e3def48e0ef219633ef829a552a7.png",
 		"description": "A simple tool to manage Bluetooth connections on gaming devices running muOS, allowing you to easily connect and control Bluetooth devices.",
 		"repo": "nvcuong1312/bltMuos"
 	},
@@ -58,5 +58,101 @@
 			"https://raw.githubusercontent.com/pcorbel/storiies/main/.github/tracks.png",
 			"https://raw.githubusercontent.com/pcorbel/storiies/main/.github/player.png"
 		]
+	},
+	{
+		"title": "VOID-Desk",
+		"image_url": "https://camo.githubusercontent.com/8f192d10878bf07a86da758fef4bd09858e51135b9c459a785b8af1626cfcc97/68747470733a2f2f692e6962622e636f2f3237637734545a742f6d756f732d32303236303732352d3137353835352e706e67",
+		"description": "Multifunctional AIO Hub with complete Linux-Desktop Environments for MuOS Jacaranda. VoidDesk bootstraps real Linux desktops — XFCE, IceWM, LXDE — each in its own Ubuntu chroot. It is a desktop environment application/utility, not a frontend, and does not replace MuX. It was removed from the forum based on a technical misclassification.",
+		"repo": "SilverCrow2323/muOS-Void-Desk",
+		"gallery": [
+			"https://github.com/SilverCrow2323/muOS-Void-Desk/raw/main/resources/nexus-menu.png",
+			"https://github.com/SilverCrow2323/muOS-Void-Desk/blob/main/resources/netsphere-monitor.png?raw=true",
+			"https://github.com/SilverCrow2323/muOS-Void-Desk/blob/main/resources/sessions-menu.png?raw=true",
+			"https://github.com/SilverCrow2323/muOS-Void-Desk/raw/main/resources/forge-menu.png"
+		],
+		"forum_url": "https://community.muos.dev/t/what-was-wrong-with-void-desk-app/1607"
+	},
+	{
+		"title": "BGM Normalizer",
+		"image_url": "https://camo.githubusercontent.com/7f539bdd8aa6e2f3a1ecef72d84f63771f8f07b1a911bc72bd2988f621da1bbe/68747470733a2f2f692e6962622e636f2f64773576733933432f6d756f732d32303236303732312d3031343830312e706e67",
+		"description": "Cross-platform BGM normalizer for muOS handhelds and PCs. Convert, normalize, and optimize your music for the ultimate handheld BGM experience.",
+		"repo": "SilverCrow2323/muOS-BGM-Normalizer",
+		"gallery": [
+			"https://camo.githubusercontent.com/a933a34529b4eb70199d04c9837b99998e0ed5c7dc76a7a4de2218514f262bea/68747470733a2f2f692e6962622e636f2f57705758763238742f6d756f732d32303236303732312d3031343733392e706e67",
+			"https://camo.githubusercontent.com/72d9473c300ab84cc9b32544953bf9b219e2a80aaf71b5ea5e4dedb53b82f621/68747470733a2f2f692e6962622e636f2f64737137303351322f6d756f732d32303236303732312d3031343732312e706e67"
+		],
+		"forum_url": "https://community.muos.dev/t/muos-bgm-normalizer-for-handhelds-pcs/1583"
+	},
+	{
+		"title": "Rt:Tailscale",
+		"image_url": "https://camo.githubusercontent.com/741cd20d9f9ee2357b9d0c1079faa9a1614a215a410b291e88c4f5a1e4f81605/68747470733a2f2f692e6962622e636f2f54426d64714e57332f6d756f732d32303236303732302d3233333932312e706e67",
+		"description": "A native GUI app for connecting your MuOS devices to your Tailscale tailnet. Browse your peers, send/receive files via Taildrop, and authenticate via QR code — all from your handheld.",
+		"repo": "SilverCrow2323/muOS-Rt-Tailscale",
+		"gallery": [
+			"https://camo.githubusercontent.com/af4961fe935c518f741ac872155ce3f9929905863b13e8f99f02524fd7c8524f/68747470733a2f2f692e6962622e636f2f48706e4b785779622f6d752d4f532d32303236303732302d323334312d302e706e67"
+		],
+		"forum_url": "https://community.muos.dev/t/muos-rt-tailscale/1598"
+	},
+	{
+		"title": "Artie",
+		"description": "A simple art scraper designed for Anbernic devices running MuOS. It helps you download and manage artwork for your ROMs, enhancing your gaming experience with beautiful visuals. Features an easy-to-use minimal UI, scraping per system or ROM, support for Box Art, Preview and Text (Synopsis), and high customizability through config.json.",
+		"repo": "milouk/artie",
+		"forum_url": "https://community.muos.dev/t/artie-scraper-light-and-fast-artwork-scraper-v2-0-0/1502"
+	},
+	{
+		"title": "MuTube",
+		"image_url": "https://community.muos.dev/uploads/default/original/2X/a/a18f54d78298644ca547a7ee850c311fec709426.png",
+		"description": "A lightweight YouTube player for muOS, built for smooth video playback on low-power gaming devices. It lets you watch videos, download them for offline use, and control playback easily—all in a simple interface designed for handheld devices.",
+		"repo": "luuhbo/muTube",
+		"forum_url": "https://community.muos.dev/t/mutube-1-0-9-youtube-player-downloader-for-muos/1682"
+	},
+	{
+		"title": "IPTVViewer",
+		"image_url": "https://community.muos.dev/uploads/default/original/1X/44701ef3ab0fa666e20c04965cae5c59af4d376d.png",
+		"description": "Application for MuOS tested on AW Banana (RG35xx H). The application can work with both remote m3u lists and local ones, watch channels and listen to radio online. It features history, bookmarks, and MPV player integration.",
+		"repo": "vasinsky/IPTVViewer",
+		"gallery": [
+			"https://community.muos.dev/uploads/default/original/1X/408f6907d3af849e66f16c188e839618ede74831.png"
+		],
+		"forum_url": "https://community.muos.dev/t/iptvviewer-for-muos/187"
+	},
+	{
+		"title": "Retroshelf",
+		"image_url": "https://community.muos.dev/uploads/default/optimized/2X/7/7929df8491fdd0f026b54e3858ebaf4977d63fc5_2_500x500.png",
+		"description": "Retroshelf is an online profile for the retro games you play, the retro handhelds you use, and the history that builds up across devices. The retroshelf muOS plugin syncs play history from your muOS device to your retroshelf profile automatically. It works offline, storing sessions on device until WiFi is available.",
+		"repo": null,
+		"gallery": [
+			"https://community.muos.dev/uploads/default/optimized/2X/c/c57c081c653a8b075f2f95728744748c079850b7_2_690x388.jpeg"
+		],
+		"forum_url": "https://community.muos.dev/t/retroshelf-muos-play-history-synced-to-a-shareable-retro-game-personal/1567",
+		"website": "https://www.retroshelf.org"
+	},
+	{
+		"title": "NextUI Itch.io",
+		"image_url": "https://github.com/carroarmato0/NextUI-Itchio-Pak/raw/main/docs/screenshots/main.png",
+		"description": "An unofficial client application for Itch.io which allows you to browse / download free/paid and legal indie games for various emulation systems directly from your device. Releases for muOS can be downloaded by selecting the file with the muxapp extension.",
+		"repo": "carroarmato0/NextUI-Itchio-Pak",
+		"gallery": [
+			"https://github.com/carroarmato0/NextUI-Itchio-Pak/raw/main/docs/screenshots/game.png",
+			"https://github.com/carroarmato0/NextUI-Itchio-Pak/raw/main/docs/screenshots/adult_filter.png",
+			"https://github.com/carroarmato0/NextUI-Itchio-Pak/raw/main/docs/screenshots/app-updates.png",
+			"https://github.com/carroarmato0/NextUI-Itchio-Pak/raw/main/docs/screenshots/bundle.png",
+			"https://github.com/carroarmato0/NextUI-Itchio-Pak/raw/main/docs/screenshots/content_filters.png",
+			"https://github.com/carroarmato0/NextUI-Itchio-Pak/raw/main/docs/screenshots/content_warning.png",
+			"https://github.com/carroarmato0/NextUI-Itchio-Pak/raw/main/docs/screenshots/delete.png",
+			"https://github.com/carroarmato0/NextUI-Itchio-Pak/raw/main/docs/screenshots/donation.png",
+			"https://github.com/carroarmato0/NextUI-Itchio-Pak/raw/main/docs/screenshots/download.png"
+		],
+		"forum_url": "https://community.muos.dev/t/itch-io-indie-games-from-itch-io/1595"
+	},
+	{
+		"title": "PocketStream",
+		"image_url": "https://github.com/fspasovski/pocketstream-app/raw/main/main-screen.png",
+		"description": "PocketStream is a lightweight, open-source Twitch client written in Go with SDL2. It lets you browse and watch live Twitch streams without needing to log in.",
+		"repo": "fspasovski/pocketstream-app",
+		"gallery": [
+			"https://github.com/fspasovski/pocketstream-app/raw/main/search-screen.png"
+		],
+		"forum_url": "https://community.muos.dev/t/pocketstream-watch-live-twitch-streams/1584"
 	}
 ]
